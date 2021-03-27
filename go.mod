@@ -1,3 +1,3 @@
-module cn.rayjun/go-mod-demo
+module github.com/rayjun/go-mod-demo
 
 go 1.14
